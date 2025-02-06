@@ -14,6 +14,7 @@ class ProductoController {
         // Cargamos la vista
         //include 'views/header.php';
         include 'views/page.php';
+        //include 'public/content/img';
         //include 'views/footer.php';
     }
 }

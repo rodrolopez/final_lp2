@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tienda de Accesorios - SLAccesorios</title>
-    <link rel="stylesheet" href="/final_lp2/public/style.css">
+    <link rel="stylesheet" href="/final_lp2/public/styles/header.css">
 </head>
 <body>
     <header class="header">

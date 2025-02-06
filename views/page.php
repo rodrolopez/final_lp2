@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tienda de Electrónica - TechStore</title>
-    <link rel="stylesheet" href="/final_lp2/public/style.css">
+    <link rel="stylesheet" href="/final_lp2/public/styles/page.css">
 </head>
 <section id="productos" class="productos">
     <div class="container">
